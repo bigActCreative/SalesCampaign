@@ -17,22 +17,41 @@ Sales Campaign app has been created for activate the digital sales campaign for 
 ================
 * Admin
 * Agency
-* View All Pledge records.
-* View All Certificate Achiever records.
-* Integrate SEO/Analytics tools. 
+* Brand promoters(bp)
+* Outlet
 
 # Dashboard: 
 ================
-* Update All Content
-* Update Downloadable Campaign Toolkit.
-* View All Pledge records.
-* View All Certificate Achiever records.
-* Integrate SEO/Analytics tools. 
+** Admin
+* View All sales reports
+* Filter The sales
+* Flagged the sales
+* view Agency reports
+* View Brand promoters reports
+* Create, update, view, delete Campaign
+* Create, update, view, delete gift for Campaign
+* Create, update, view, delete promo code/gift code for Campaign
+* Create, update, view, delete Admin
+* Create, update, view, delete Agency
+* Create, update, view, delete Outlet
+* Create, update, view, delete Brand promoters(bp)
+
+** Agency 
+* View Own sales 
+* Create, Update Brand promoter Users
+* view Own bp sales details.
+
+** Outlet
+* View Own sales and achievement reports
+
+** Brand promoters(bp)
+* Only Login form Mobile App
+* Entry the sale by throw Mobile App
+* View own sale details by throw Mobile App 
+
 ````
 
 **HOST:**
-> Version controlling by - Bitbucket.
+> Version controlling by - GitLab
 
-> Live was - pledge4peacebd.com.
-
-> Campaign FB Page - [Pledge4PeaceBD](https://www.facebook.com/Pledge4PeaceBD/).
+> Live in - Sorry, it's a NDA project
